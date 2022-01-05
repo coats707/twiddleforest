@@ -4,4 +4,4 @@
 
 Thank you for playing Twiddle Forest!
 
-Please contact us at twiddleforest@gmail.com for all support inquiries.
+Please contact us at [twiddleforest@gmail.com](mailto:twiddleforest@gmail.com) for all support inquiries.
